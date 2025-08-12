@@ -1,0 +1,17 @@
+App Two
+
+Purpose
+This repository is used for:
+- Testing multi-repo integration with Port
+- Simulating a second microservice or application
+- Verifying GitHub connector capabilities
+
+Contents
+Currently, the repository only contains this README file.  
+More files and configurations may be added later.
+
+Tech Stack (future)
+- Language: TBD
+- Framework: TBD
+- Tools: GitHub Actions, Docker, Kubernetes (planned)
+
